@@ -23,8 +23,7 @@ The project provides a collection of gameplay tools, including visual informatio
 
 **Latest Version:** `v1.0.0` • **File Size:** ~156 MB
 
-</d
-  iv>
+</div>
 
 ---
 
